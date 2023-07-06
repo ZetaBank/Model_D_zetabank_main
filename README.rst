@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Model D Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Introducing the disinfection robot Model D.
 
-Read the tutorial here:
+Read the Manual here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://manual-model-d.readthedocs.io/en/latest/
